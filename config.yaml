@@ -1,0 +1,7 @@
+path: /mnt/d/vault/devhub/object_detection_with_yolo8/data/processed
+train: train
+val: validation
+test: test
+
+names:
+  0: Apple
